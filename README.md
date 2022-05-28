@@ -1,1 +1,1 @@
-# internetshop
+# internet-shop
